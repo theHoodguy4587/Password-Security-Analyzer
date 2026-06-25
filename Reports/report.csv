@@ -1,0 +1,6 @@
+Password,Score,Level,Issues,Entropy
+123456,-40,WEAK,Password is too common.; Password is too short.; Password should contain at least one uppercase letter.; Password should contain at least one lowercase letter.; Password should contain at least one special character.; Password entropy is too low.,2.584962500721156
+password,-10,WEAK,Password is too common.; Password should contain at least one uppercase letter.; Password should contain at least one digit.; Password should contain at least one special character.; Password entropy is too low.,2.75
+Qwerty123,90,STRONG,Password should contain at least one special character.,3.169925001442312
+Admin@2024,100,STRONG,,3.1219280948873624
+Xk9!mP2#z,100,STRONG,,3.169925001442312
